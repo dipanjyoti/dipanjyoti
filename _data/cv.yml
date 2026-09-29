@@ -58,14 +58,15 @@ cv:
         end_date: 2012
 
     Research Interests:
-      - name: Machine learning and computer vision
-      - name: Imageomics and AI for science
-      - name: Explainable and interpretable AI
-      - name: AI in health
-      - name: Streaming data and real-time summarization
-      - name: Foundation models
+      - bullet: Machine Learning
+      - bullet: Computer Vision
+      - bullet: Imageomics
+      - bullet: Explainable AI
+      - bullet: AI in Health
+      - bullet: Streaming Data
+      - bullet: Foundational Models
 
     Professional Memberships:
-      - name: Institute of Electrical and Electronics Engineers (IEEE)
-      - name: Association for Computing Machinery (ACM)
-      - name: Asia Pacific Neural Network Society (APNNS)
+      - bullet: Institute of Electrical and Electronics Engineers (IEEE)
+      - bullet: Association for Computing Machinery (ACM)
+      - bullet: Asia Pacific Neural Network Society (APNNS)
