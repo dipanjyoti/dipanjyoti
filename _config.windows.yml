@@ -1,0 +1,4 @@
+# Local Windows development override.
+# GitHub Actions uses _config.yml and keeps responsive image generation enabled.
+imagemagick:
+  enabled: false
