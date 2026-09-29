@@ -7,7 +7,7 @@
 **University of Tsukuba, Japan** · **The Ohio State University, USA**
 
 <p>
-  <a href="https://dipanjyoti.github.io/">
+  <a href="https://dipanjyoti.github.io/dipanjyoti/">
     <img src="https://img.shields.io/badge/Academic_Website-Visit-7b2cbf?style=for-the-badge" alt="Academic website">
   </a>
   <a href="https://scholar.google.com/citations?user=AwOcRTAAAAAJ">
@@ -76,7 +76,7 @@ My research develops machine-learning methods that are interpretable, efficient,
 The best way to reach me is by email at **paul.dipanjyoti.ga@u.tsukuba.ac.jp**.
 
 <p align="center">
-  <a href="https://dipanjyoti.github.io/">Website</a> ·
+  <a href="https://dipanjyoti.github.io/dipanjyoti/">Website</a> ·
   <a href="https://scholar.google.com/citations?user=AwOcRTAAAAAJ">Google Scholar</a> ·
   <a href="https://github.com/dipanjyoti">GitHub</a> ·
   <a href="https://www.linkedin.com/in/dipanjyoti-paul/">LinkedIn</a> ·
